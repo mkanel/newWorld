@@ -28,6 +28,6 @@ def main():
 
                         if human.isAlive():
                                 human.speak()
-                                human.pay( humans[99], random.randint( 1, 1000000 ) )
+                                human.pay( humans[98], random.randint( 1, 1000000 ) )
 
 main()
