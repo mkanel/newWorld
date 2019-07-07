@@ -8,7 +8,7 @@ import random
 
 def main():
 
-        howManyHumans = 1000
+        howManyHumans = 100
         humans = []
         for i in range( howManyHumans ):
                 name = generate_word( random.randint( 3, 8 ) )
